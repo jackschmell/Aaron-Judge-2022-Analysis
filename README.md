@@ -6,8 +6,6 @@
 
 Welcome to the comprehensive analysis of Aaron Judge's exceptional 2022 baseball season! This repository is dedicated to delving deep into the statistical brilliance and on-field impact of one of baseball's premier outfielders.
 
-Statistical Brilliance:
-
 Explore Judge's 2022 season through the lens of advanced sabermetric statistics. From traditional metrics like batting average, home runs, and RBIs to advanced metrics such as:
 
 wOBA (Weighted On-Base Average): Measure of a player's overall offensive value, accounting for different aspects of hitting.
