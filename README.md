@@ -2,4 +2,4 @@
 
 # Aaron Judge 2022 Season Analysis
 
-# About
+## About
