@@ -15,3 +15,6 @@ wRC+ (Weighted Runs Created Plus): Evaluates a player's total offensive value co
 ISO (Isolated Power): Indicates a player's raw power by measuring extra bases per at-bat.
 
 Exit Velocity and Launch Angle: Analyze Judge's batted ball profile, showcasing his power and consistency at the plate.
+
+
+## Data Collection
